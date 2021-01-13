@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/__about`,
+        path: `https://www.notion.so/Career-2251d4e5dfb44307afbb1a3b7bbc13bb`,
         name: `about`,
       },
     },
