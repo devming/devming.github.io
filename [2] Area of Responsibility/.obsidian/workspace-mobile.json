@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "bc5846c3c7484df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f8cddb887f7010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8005fdc0c9307f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iOS/RealityKit/RealityKit WWDC 세션 모음.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f13bd7fdc7780a7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "58e5c5491aeabb54",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "121bbd61eb1ac130",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bc4e5c936291c40b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1978596b1d148cfa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2ec829505b9c2168",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "30f011b295fa7013",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "iOS/RealityKit/RealityKit WWDC 세션 모음.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "abdab53311fa2b88",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "iOS/RealityKit/RealityKit WWDC 세션 모음.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "435fb1ee00ada206",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "iOS/RealityKit/RealityKit WWDC 세션 모음.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58e5c5491aeabb54",
+  "lastOpenFiles": [
+    "iOS/RealityKit/RealityKit으로 공간 경험 구축하기.md"
+  ]
+}

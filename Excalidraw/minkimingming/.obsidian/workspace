@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "3af830de41d6bfee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d8e25ed2d8e538a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "iOS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57f3b7fbd773de4f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cfc967669d42d3a6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "68d31587a234bde9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d6c1407e8544cf01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a95d599791e6d055",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "832055a113bdaf66",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "50f23c57f2d8d308",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "iOS.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c84a2a9a834d39c0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "iOS.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f36df5355f3001cb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "iOS.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7d8e25ed2d8e538a",
+  "lastOpenFiles": [
+    "iOS.md"
+  ]
+}

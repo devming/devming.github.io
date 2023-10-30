@@ -1,0 +1,65 @@
+{
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "periodic-notes:open-yearly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    },
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F6"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element-group": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "31be3f55151e6d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8a39514fa14970",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "minkimingming/Excalidraw/엑스캘리드로우에 대해서.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "617466281c382b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3ad76609d87f01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65bac056ca40df6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2e41bc15a070b53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "exam",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8917f5868b6fa2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf6329e7f278bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7914e98d00a2324",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "minkimingming/Excalidraw/엑스캘리드로우에 대해서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c0a1eca479e4d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "minkimingming/Excalidraw/엑스캘리드로우에 대해서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67688b54775dcc35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e0d6488ca5079dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "minkimingming/Excalidraw/엑스캘리드로우에 대해서.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c65bac056ca40df6",
+  "lastOpenFiles": [
+    "minkimingming/iOS.md",
+    "minkimingming/Birdview.md",
+    "minkimingming/옵시디언 사용.md",
+    "BindingReducer.md",
+    "TCA.md",
+    "2.md"
+  ]
+}

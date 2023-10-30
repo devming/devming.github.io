@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "",
+    "folder": "Diary Sample/2. Weekly",
+    "enabled": false
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": "Diary Sample/3. Monthly",
+    "enabled": false
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": "Diary Sample/4. Yearly",
+    "enabled": false
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "Diary Sample/4. Yearly",
+    "enabled": false
+  }
+}

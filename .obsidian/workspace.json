@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "cb400d9346553b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "90bb936a017cd69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e94731c3e5f9390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[2] Area of Responsibility/iOS/RealityKit/RealityKit WWDC 세션 모음.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fcfccee0ceb43ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[1] Project/Side Project/Hologram/홀로그램 제작.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57e258b59150bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud 서드파티 활용하기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "634a6ff998177576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud - Custom scripts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a89c0e9d18bbf7f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7a9f9cd486e5cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8551e23097025064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "713ef69f9395c47b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8beb76ea1e3fa6e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.50418853759766
+  },
+  "right": {
+    "id": "11a1322d3322eef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9643d9c20b6b88c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751438854c5d9692",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud - Custom scripts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b61038a4ebd0cca9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud - Custom scripts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eda63f447763a42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f76d703d8c4cd6e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud - Custom scripts.md"
+              }
+            }
+          },
+          {
+            "id": "c3e069395014126a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:퀵 스위처 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "634a6ff998177576",
+  "lastOpenFiles": [
+    "Assets/Pasted image 20231017085615.png",
+    "Assets/Pasted image 20231017085606.png",
+    "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud - Custom scripts.md",
+    "Assets/Pasted image 20231017084855.png",
+    "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud 서드파티 활용하기.md",
+    "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud - Environment variables.md",
+    "Assets/Pasted image 20231017084425.png",
+    "[2] Area of Responsibility/iOS/Xcode Cloud/Xcode Cloud 시작하기.md",
+    "[2] Area of Responsibility/iOS/Xcode Cloud",
+    "[2] Area of Responsibility/iOS/RealityKit/RealityKit WWDC 세션 모음.md",
+    "[1] Project/Side Project/Hologram/홀로그램 제작.md",
+    "[1] Project/Side Project/Hologram",
+    "[2] Area of Responsibility/iOS/RealityKit/RealityKit으로 공간 경험 구축하기.md",
+    "[2] Area of Responsibility/iOS/RealityKit/RealityView.md",
+    "Assets/Pasted image 20231010205334.png",
+    "Assets/Pasted image 20231010204756.png",
+    "Assets/Pasted image 20231010204624.png",
+    "Assets/Pasted image 20231010204605.png",
+    "Assets/Pasted image 20231010204430.png",
+    "Assets/Pasted image 20231010204216.png",
+    "[1] Project/Side Project/TimeStamp(Side Project)/TimeStamp.md",
+    "[1] Project/Side Project/Side Project Dashboard.md",
+    "[2] Area of Responsibility/iOS/Swift Concurrency/Swift Concurrency.md",
+    "[2] Area of Responsibility/iOS/Dashboard.excalidraw.md",
+    "[2] Area of Responsibility/iOS/테스트 코드/iOS Test Dashboard.md",
+    "[2] Area of Responsibility/iOS/테스트 코드/가장 먼저 알아야할 개념.md",
+    "[2] Area of Responsibility/iOS/RealityKit/무제 폴더",
+    "[1] Project/Side Project/TimeStamp(Side Project)/TimeStamp 프로젝트 정의서.md",
+    "[2] Area of Responsibility/iOS/RealityKit",
+    "2023-09-28.md",
+    "[1] Project/Side Project/TimeStamp(Side Project)",
+    "[1] Project/Side Project",
+    "[2] Area of Responsibility/iOS/테스트 코드/BDD.md",
+    "[2] Area of Responsibility/iOS/테스트 코드/테스트코드 정리 노션 문서.md",
+    "[2] Area of Responsibility/iOS/SwiftUI",
+    "[2] Area of Responsibility/iOS/Swift Concurrency",
+    "[2] Area of Responsibility/iOS/TCA",
+    "Excalidraw/excalidraw_example.excalidraw.md",
+    "Excalidraw/mypizza.md",
+    "Excalidraw/TEST.md",
+    "Excalidraw/New Excalidraw Template.excalidraw.md",
+    "Excalidraw/2023-09-28 13.12.02.excalidraw.md",
+    "Excalidraw/2023-09-27 12.12.52.excalidraw.md",
+    "무제 파일.canvas",
+    "Excalidraw/minkimingming/Excalidraw/엑스칼리드로우에 대해서.md",
+    "Excalidraw/minkimingming/무제 파일.canvas",
+    "Excalidraw/minkimingming/Excalidraw",
+    "minkimingming/무제 파일.canvas"
+  ]
+}
