@@ -103,5 +103,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/devming/devming.github.io.git
+  repo: https://devming@github.com/devming/devming.github.io
   branch: master
